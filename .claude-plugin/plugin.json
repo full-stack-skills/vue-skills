@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/vue-skills",
-  "repository": "https://github.com/full-statck-skills/vue-skills",
+  "homepage": "https://github.com/full-stack-skills/vue-skills",
+  "repository": "https://github.com/full-stack-skills/vue-skills",
   "source": "./",
   "skills": [
     "./skills/pinia",
