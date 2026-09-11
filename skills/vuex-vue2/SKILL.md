@@ -1,7 +1,7 @@
 ---
 name: vuex-vue2
 description: Provides comprehensive guidance for Vuex 2.x state management in Vue 2 applications including state, mutations, actions, getters, modules, and plugins. Use when the user asks about Vuex for Vue 2, needs to manage state in Vue 2 applications, or implement Vuex patterns.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

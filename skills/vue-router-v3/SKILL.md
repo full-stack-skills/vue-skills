@@ -1,7 +1,7 @@
 ---
 name: vue-router-v3
 description: Guidance for Vue Router v3 using the official Installation, Guide, and API docs. Use when users need routing setup, navigation patterns, or API details for Vue 2 projects.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

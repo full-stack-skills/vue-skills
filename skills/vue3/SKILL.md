@@ -1,7 +1,7 @@
 ---
 name: vue3
 description: Guidance for Vue 3 using the official guide and API reference. Use when the user needs Vue 3 concepts, patterns, or API details to build components, apps, and tooling.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

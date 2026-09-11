@@ -1,7 +1,7 @@
 ---
 name: vue-router
 description: Provides comprehensive guidance for Vue Router including route configuration, navigation, dynamic routes, nested routes, route guards, programmatic navigation, and route meta. Use when the user asks about Vue Router, needs to set up routing, implement navigation guards, handle route parameters, or manage route transitions.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

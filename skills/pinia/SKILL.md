@@ -1,7 +1,7 @@
 ---
 name: pinia
 description: Provides comprehensive guidance for Pinia state management including stores, state, getters, actions, plugins, and TypeScript support. Use when the user asks about Pinia, needs to manage application state, create stores, implement state persistence, or migrate from Vuex.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
