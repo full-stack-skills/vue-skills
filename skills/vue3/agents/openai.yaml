@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue3"
+  short_description: "Vue 3 using the official guide and API reference"
+  default_prompt: "Use $vue3 to help with my current task: Guidance for Vue 3 using the official guide and API reference."

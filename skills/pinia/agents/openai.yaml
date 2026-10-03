@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pinia"
+  short_description: "Pinia state management including stores, state, getters…"
+  default_prompt: "Use $pinia to help with my current task: Provides comprehensive guidance for Pinia state management including stores, state, getters, actions, plugins, and TypeScript support."

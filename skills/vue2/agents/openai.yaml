@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue2"
+  short_description: "Vue 2.x development including Options API, components…"
+  default_prompt: "Use $vue2 to help with my current task: Provides comprehensive guidance for Vue 2.x development including Options API, components, directives, lifecycle hooks, computed properties, watchers, Vuex state management, and…"

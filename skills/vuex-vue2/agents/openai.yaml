@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vuex Vue2"
+  short_description: "Vuex 2.x state management in Vue 2 applications including…"
+  default_prompt: "Use $vuex-vue2 to help with my current task: Provides comprehensive guidance for Vuex 2.x state management in Vue 2 applications including state, mutations, actions, getters, modules, and plugins."

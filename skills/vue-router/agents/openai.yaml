@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Router"
+  short_description: "Vue Router including route configuration, navigation, dynamic…"
+  default_prompt: "Use $vue-router to help with my current task: Provides comprehensive guidance for Vue Router including route configuration, navigation, dynamic routes, nested routes, route guards, programmatic navigation, and route meta."

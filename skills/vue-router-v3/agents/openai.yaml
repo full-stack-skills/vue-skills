@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Router v3"
+  short_description: "Vue Router v3 using the official Installation, Guide, and API…"
+  default_prompt: "Use $vue-router-v3 to help with my current task: Guidance for Vue Router v3 using the official Installation, Guide, and API docs."

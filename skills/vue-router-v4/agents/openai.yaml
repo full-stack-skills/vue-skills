@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Router v4"
+  short_description: "Vue Router v4 including route configuration, navigation…"
+  default_prompt: "Use $vue-router-v4 to help with my current task: Provides comprehensive guidance for Vue Router v4 including route configuration, navigation, nested routes, route guards, and Vue 3 integration."
